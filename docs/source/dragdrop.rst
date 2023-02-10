@@ -1,7 +1,7 @@
 Drag & Drop
 =====
 
-Full Featured Ajax Calendar view
+You can Drag&Drop External Appointments anywhere into Calendar, it will be created on Database.
 
 .. image:: images/10- catalog.PNG
 		:width: 600
