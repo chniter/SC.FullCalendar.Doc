@@ -1,7 +1,7 @@
 Edit Appointment
 =====
 
-Full Featured Ajax Calendar view
+You can open an Appointment and edit its properties, it will be updated on Database.
 
 .. image:: images/10- catalog.PNG
 		:width: 600
