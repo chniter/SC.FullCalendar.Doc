@@ -1,13 +1,16 @@
-Welcome to Lumache's documentation!
+Welcome to SC FullCalendar's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**SC FullCalendar** is Visual Studio Solution written in *ASPT.NET Core MVC 6* that implement a *Full Featured Ajax Calendar* 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+It use *Microsot SQL Server Express* as database and *EntityFrameworkCore* Code First to manage Data and offers a *simple* and *intuitive* UI to start building a full Full Calendar Component.
+
+SC FullCalendar is an ASP.NET CORE MVC 6 Project that can be used to start building your booking Website.
+The project implement a Full Featured Ajax Calendar.
+The appointments persist on database.
+Key Features:
+
+Check out the :doc:`gettingstarted` section for further information
 
 .. note::
 
@@ -18,5 +21,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   gettingstarted
+   calendar
+   dragdrop
+   edit
+   move
+   resize
