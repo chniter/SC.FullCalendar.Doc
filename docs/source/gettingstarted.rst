@@ -3,12 +3,12 @@ Getting Started
 
 SC FullCalendar is an ASP.NET CORE MVC 6 Project that can be used to start building your Booking Website.
 
-.. image:: images/1-solution.PNG
+.. image:: images/solution.PNG
    
-.. image:: images/8-home.PNG
+.. image:: images/1-week.PNG
 	:width: 600
 		
-.. image:: images/9-login.PNG
+.. image:: images/3-month.PNG
 	:width: 600
 
 Key Features
@@ -43,12 +43,6 @@ Before building the solution, make sure to have the correct parameters on the ap
 
 - **ConnectionStrings**  :  Default Connection String of the database 
 
-.. image:: images/4-appsettings.PNG
-:width: 600
-		
-.. image:: images/3-config.PNG
-:width: 600
-   
    
 Build & Run
 ------------
